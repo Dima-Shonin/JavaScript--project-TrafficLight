@@ -1,0 +1,39 @@
+.black
+{
+    width: 100px; 
+    height: 100px;
+    border-radius: 100%;
+    background: black;    
+    margin-left: auto;
+    margin-right: auto
+}
+
+.yellow
+{
+    width: 100px; 
+    height: 100px;
+    border-radius: 100%;      
+    margin-left: auto;
+    margin-right: auto;
+    background: yellow;
+}
+
+.red
+{
+    width: 100px; 
+    height: 100px;
+    border-radius: 100%;      
+    margin-left: auto;
+    margin-right: auto;
+    background: red;
+}
+
+.green
+{
+    width: 100px; 
+    height: 100px;
+    border-radius: 100%;      
+    margin-left: auto;
+    margin-right: auto;
+    background: green;
+}
